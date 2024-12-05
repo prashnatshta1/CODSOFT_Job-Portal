@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "title": "Software Engineer",
+        "salary": "Average Salary NPR 60,000 - 70,000 per month",
+        "status": "Job Openings",
+        "skills": "Programming, problem-solving, software development lifecycle"
+    },
+    {
+        "id": 2,
+        "title": "Web Developer",
+        "salary": "Average Salary NPR 50,000 - 65,000 per month",
+        "status": "Job Openings",
+        "skills": "HTML, CSS, JavaScript, front-end frameworks"
+    },
+    {
+        "id": 3,
+        "title": "Data Scientist",
+        "salary": "Average Salary NPR 60,000 - 70,000 per month",
+        "status": "Job Openings",
+        "skills": "Data analysis, Python, machine learning, data visualization"
+    },
+    {
+        "id": 4,
+        "title": "UI/UX Designer",
+        "salary": "Average Salary NPR 45,000 - 60,000 per month",
+        "status": "Job Openings",
+        "skills": "Wireframing, prototyping, Figma, Adobe XD"
+    },
+    {
+        "id": 5,
+        "title": "Frontend Developer",
+        "salary": "Average Salary NPR 50,000 - 65,000 per month",
+        "status": "Job Openings",
+        "skills": "React, Angular, responsive design, debugging"
+    },
+    {
+        "id": 6,
+        "title": "DevOps Engineer",
+        "salary": "Average Salary NPR 60,000 - 70,000 per month",
+        "status": "Job Openings",
+        "skills": "CI/CD pipelines, cloud infrastructure, Docker, Kubernetes"
+    },
+    {
+        "id": 7,
+        "title": "Mobile App Developer",
+        "salary": "Average Salary NPR 50,000 - 65,000 per month",
+        "status": "Job Openings",
+        "skills": "Android, iOS, cross-platform frameworks, REST APIs"
+    },
+    {
+        "id": 8,
+        "title": "Content Writer",
+        "salary": "Average Salary NPR 30,000 - 40,000 per month",
+        "status": "Job Openings",
+        "skills": "Content creation, SEO, research, storytelling"
+    },
+    {
+        "id": 9,
+        "title": "Network Administrator",
+        "salary": "Average Salary NPR 50,000 - 60,000 per month",
+        "status": "Job Openings",
+        "skills": "Networking protocols, troubleshooting, firewalls, security"
+    },
+    {
+        "id": 10,
+        "title": "Graphic Designer",
+        "salary": "Average Salary NPR 30,000 - 45,000 per month",
+        "status": "Job Openings",
+        "skills": "Adobe Illustrator, Photoshop, branding, creativity"
+    },
+    {
+        "id": 1,
+        "title": "Junior Software Developer",
+        "salary": "Average Salary NPR 10,000 - 15,000 per month",
+        "status": "Job Openings",
+        "skills": "Basic programming knowledge, debugging, teamwork"
+    },
+    {
+        "id": 2,
+        "title": "Digital Marketing Executive",
+        "salary": "Average Salary NPR 12,000 - 20,000 per month",
+        "status": "Job Openings",
+        "skills": "Social media management, content creation, analytics"
+    },
+    {
+        "id": 3,
+        "title": "Customer Support Executive",
+        "salary": "Average Salary NPR 15,000 - 20,000 per month",
+        "status": "Job Openings",
+        "skills": "Communication, problem-solving, customer handling"
+    },
+    {
+        "id": 4,
+        "title": "IT Support Technician",
+        "salary": "Average Salary NPR 18,000 - 25,000 per month",
+        "status": "Job Openings",
+        "skills": "Hardware troubleshooting, networking, technical support"
+    },
+    {
+        "id": 5,
+        "title": "Social Media Manager",
+        "salary": "Average Salary NPR 20,000 - 30,000 per month",
+        "status": "Job Openings",
+        "skills": "Strategy development, campaign management, analytics"
+    },
+    {
+        "id": 6,
+        "title": "Junior Accountant",
+        "salary": "Average Salary NPR 12,000 - 18,000 per month",
+        "status": "Job Openings",
+        "skills": "Bookkeeping, financial reporting, Microsoft Excel"
+    },
+    {
+        "id": 7,
+        "title": "Graphic Design Intern",
+        "salary": "Average Salary NPR 10,000 - 12,000 per month",
+        "status": "Job Openings",
+        "skills": "Design tools (Adobe Suite), creativity, teamwork"
+    },
+    {
+        "id": 8,
+        "title": "HR Assistant",
+        "salary": "Average Salary NPR 15,000 - 20,000 per month",
+        "status": "Job Openings",
+        "skills": "Recruitment, documentation, communication"
+    },
+    {
+        "id": 9,
+        "title": "SEO Specialist",
+        "salary": "Average Salary NPR 15,000 - 25,000 per month",
+        "status": "Job Openings",
+        "skills": "SEO optimization, keyword research, analytics"
+    },
+    {
+        "id": 10,
+        "title": "Content Editor",
+        "salary": "Average Salary NPR 15,000 - 20,000 per month",
+        "status": "Job Openings",
+        "skills": "Editing, proofreading, content management"
+    }
+]
